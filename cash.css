@@ -1,0 +1,11 @@
+body {
+  font-family: 'Arvo', serif;
+}
+
+.container p {
+  font-size: 20px;
+}
+
+.container h2 {
+  font-size: 25px;
+}
